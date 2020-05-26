@@ -2,7 +2,7 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 host_address = "Sambhavj821@gmail.com"
-host_pass = "Alka@242"
+host_pass = "Ved@2424"
 guest_address = "Sambhavj821@gmail.com"
 subject = "Regarding Success of your model "
 content = '''Hello, 
